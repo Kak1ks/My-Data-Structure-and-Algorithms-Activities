@@ -45,3 +45,22 @@ This application was created to demonstrate basic banking operations and practic
 
 
 How This Application Contributes to Me or the Community
+//What is it?  
+The Directed Graph with DFS is a simple Java program that shows how to use a directed graph. It stores the graph's vertices and edges in a list and lets you perform a Depth-First Search (DFS) to explore the graph.
+
+What can it do?  
+
+1. Add a Vertex: Add a new point (vertex) to the graph.  
+2. Add a Edge: Create a one-way connection (edge) between two vertices.  
+3.DFS Traversal: Start at any vertex and use Depth-First Search to explore all connected vertices.  
+4. Display Graph: Show the graph with all the vertices and their outgoing edges.  
+5. Exit: Close the program.
+
+Why did I make it?  
+
+I created this program to practice coding with graph structures and learn how Depth-First Search works in Java. It also helps me understand how graphs can be represented and explored using code.
+
+How does it help?  
+
+For me: It helped me practice Java and understand graph algorithms better.  
+For others: It's a simple tool for beginners to learn how graphs and DFS work in a hands-on way. It’s easy to understand and can be a good starting point for learning more advanced topics.
